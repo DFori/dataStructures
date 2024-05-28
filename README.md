@@ -1,7 +1,3 @@
-Sure! Here's the procedure formatted for a README.md file:
-
----
-
 ## Algorithm for Checking Palindrome in Java
 
 1. **Initialize Variables**:
@@ -30,7 +26,3 @@ Sure! Here's the procedure formatted for a README.md file:
 6. **Output**:
    - Call `isPalindrome` function with the word to check.
    - It Prints the result(`string` is palindrome or `string` is not palindrome).
-
----
-
-You can use this algorithm to check whether a given word is a palindrome in Java.
